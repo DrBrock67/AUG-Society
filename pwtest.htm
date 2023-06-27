@@ -1,0 +1,24 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage Express 2.0">
+<title>PWTest</title>
+</head>
+
+<body bgcolor="#FFFFFF">
+
+<p>Go to my <a href="JavaScript:checkPass()">private page</a> </p>
+<script language="JavaScript"> 
+<!--HIDE FROM NON-JAVASCRIPT BROWSERS
+function checkPass() {
+var passWord //define the password variable
+passWord = prompt("Please Enter Your Password",""); //display a prompt window to allow visitor to enter password
+passWord = (passWord + ".htm"); //add .htm to the password to create a page name
+window.location.href = passWord; //go to the password protected page guest.htm
+}
+//--> //end of script hiding 
+</script>
+</body>
+</html>

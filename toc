@@ -1,0 +1,673 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:st1="urn:schemas-microsoft-com:office:smarttags"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 10">
+<meta name=Originator content="Microsoft Word 10">
+<link rel=File-List href="index_files/filelist.xml">
+<link rel=Edit-Time-Data href="index_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>AUG Rules All The Land!!!</title>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="date"/>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Drew Brock</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>Drew Brock</o:LastAuthor>
+  <o:Revision>42</o:Revision>
+  <o:TotalTime>235</o:TotalTime>
+  <o:Created>2001-08-31T22:47:00Z</o:Created>
+  <o:LastSaved>2002-03-22T07:46:00Z</o:LastSaved>
+  <o:Pages>6</o:Pages>
+  <o:Words>859</o:Words>
+  <o:Characters>4902</o:Characters>
+  <o:Company>DASH Consulting</o:Company>
+  <o:Lines>40</o:Lines>
+  <o:Paragraphs>11</o:Paragraphs>
+  <o:CharactersWithSpaces>5750</o:CharactersWithSpaces>
+  <o:Version>10.2625</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:Zoom>75</w:Zoom>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if !mso]><object
+ classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui>
+<style>
+st1\:*{behavior:url(#ieooui) }
+</style>
+<![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:.25in .3in 15.1pt .3in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:1425103906;
+	mso-list-type:hybrid;
+	mso-list-template-ids:2014580180 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l0:level2
+	{mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-.25in;}
+@list l0:level3
+	{mso-level-tab-stop:1.75in;
+	mso-level-number-position:left;
+	margin-left:1.75in;
+	text-indent:-.25in;}
+@list l0:level4
+	{mso-level-tab-stop:2.25in;
+	mso-level-number-position:left;
+	margin-left:2.25in;
+	text-indent:-.25in;}
+@list l0:level5
+	{mso-level-tab-stop:2.75in;
+	mso-level-number-position:left;
+	margin-left:2.75in;
+	text-indent:-.25in;}
+@list l0:level6
+	{mso-level-tab-stop:3.25in;
+	mso-level-number-position:left;
+	margin-left:3.25in;
+	text-indent:-.25in;}
+@list l0:level7
+	{mso-level-tab-stop:3.75in;
+	mso-level-number-position:left;
+	margin-left:3.75in;
+	text-indent:-.25in;}
+@list l0:level8
+	{mso-level-tab-stop:4.25in;
+	mso-level-number-position:left;
+	margin-left:4.25in;
+	text-indent:-.25in;}
+@list l0:level9
+	{mso-level-tab-stop:4.75in;
+	mso-level-number-position:left;
+	margin-left:4.75in;
+	text-indent:-.25in;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";}
+table.MsoTableGrid
+	{mso-style-name:"Table Grid";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	border:solid windowtext 1.0pt;
+	mso-border-alt:solid windowtext .5pt;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-border-insideh:.5pt solid windowtext;
+	mso-border-insidev:.5pt solid windowtext;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1541"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body bgcolor=white background=bgstrip.GIF lang=EN-US link=blue vlink=blue
+style='tab-interval:.5in' leftmargin=20>
+
+<div class=Section1>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0in;mso-padding-alt:0in 0in 0in 0in'>
+ <tr style='mso-yfti-irow:0;mso-yfti-lastrow:yes'>
+  <td width="4%" valign=top style='width:4.74%;padding:0in 0in 0in 0in'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width="95%" valign=top style='width:95.26%;padding:0in 0in 0in 0in'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='font-size:36.0pt;color:navy'>The <img width=55 height=61
+  id="_x0000_i1352" src=awave.gif><img width=52 height=57 id="_x0000_i1250"
+  src=uwave.gif><img width=56 height=57 id="_x0000_i1249" src=gwave.gif><span
+  style='mso-spacerun:yes'>  </span>Society</span></b><b><span
+  style='font-size:24.0pt;color:navy'><br clear=left>
+  </span></b><b><span style='font-size:24.0pt'><img width=557 height=20
+  id="_x0000_i1248" src=gradbar.GIF></span></b></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal><span style='display:none;mso-hide:all'><o:p>&nbsp;</o:p></span></p>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='mso-cellspacing:0in;mso-table-layout-alt:fixed;mso-padding-alt:0in 0in 0in 0in'>
+ <tr style='mso-yfti-irow:0;mso-yfti-lastrow:yes;height:48.15pt'>
+  <td width="9%" valign=top style='width:9.52%;padding:0in 0in 0in 0in;
+  height:48.15pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width="11%" valign=top style='width:11.12%;padding:0in 0in 0in 0in;
+  height:48.15pt'>
+  <p class=MsoNormal align=right style='text-align:right'>&nbsp;<img width=84
+  height=65 id="_x0000_i1505" src=texasflag.gif></p>
+  </td>
+  <td width="69%" style='width:69.84%;padding:0in 0in 0in 0in;height:48.15pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:16.0pt'><marquee bgcolor="#C0C0C0" width="173" height="8">Dedicated to the memories of Zoso, Zippo, &amp; all the girls we've done...</marquee><o:p></span></p>
+  </td>
+  <td width="9%" style='width:9.52%;padding:0in 0in 0in 0in;height:48.15pt'>
+  <p class=MsoNormal>&nbsp;<img width=56 height=55 id="_x0000_i1506"
+  src=yinyang.gif></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal><span style='display:none;mso-hide:all'><o:p>&nbsp;</o:p></span></p>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="99%"
+ style='width:99.68%;mso-cellspacing:0in;mso-padding-alt:0in 0in 0in 0in'>
+ <tr style='mso-yfti-irow:0;mso-yfti-lastrow:yes;height:122.85pt'>
+  <td width="9%" style='width:9.52%;padding:0in 0in 0in 0in;height:122.85pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width="90%" style='width:90.48%;padding:0in 0in 0in 0in;height:122.85pt'>
+  <p class=MsoNormal align=center style='text-align:center'><img width=544
+  height=8 id="_x0000_i1414" src=hrule1a.GIF></p>
+  <p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><i><img
+  width=36 height=33 id="_x0000_i1415" src=bouncwht.gif><span
+  style='mso-spacerun:yes'>       </span></i><span class=SpellE><span
+  style='font-size:18.0pt;color:#2200A1'>Whassup</span></span><span
+  style='font-size:18.0pt;color:#2200A1'> for <span class=SpellE>AUGers</span>:</span><i>
+  </i></p>
+  <p style='margin-top:0in;margin-right:28.75pt;margin-bottom:0in;margin-left:
+  .5in;margin-bottom:.0001pt;text-indent:-.25in;line-height:150%;mso-list:l0 level1 lfo2;
+  tab-stops:list .5in'><![if !supportLists]><strong><span style='font-size:
+  10.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-family:Symbol;
+  mso-bidi-font-family:Symbol;font-weight:normal;mso-bidi-font-weight:bold;
+  mso-bidi-font-style:italic'><span style='mso-list:Ignore'>·<span
+  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span></strong><![endif]><strong><i>NEW!!!: </i></strong><strong><i><span
+  style='font-size:10.0pt;line-height:150%'>Recently un-earthed, the </span><a
+  href="Wango%20Epistles.htm"><span style='font-weight:normal'>Epistles to <span
+  class=SpellE>Wango</span></span></a></i></strong><strong><i><span
+  style='font-size:10.0pt;line-height:150%'> offer insight into the proto-AUG
+  mind&#8230;<o:p></span></i></strong></p>
+  <p style='margin-top:0in;margin-right:28.75pt;margin-bottom:0in;margin-left:
+  .5in;margin-bottom:.0001pt;text-indent:-.25in;line-height:150%;mso-list:l0 level1 lfo2;
+  tab-stops:list .5in'><![if !supportLists]><strong><span style='font-size:
+  10.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-family:Symbol;
+  mso-bidi-font-family:Symbol;font-weight:normal;mso-bidi-font-weight:bold;
+  mso-bidi-font-style:italic'><span style='mso-list:Ignore'>·<span
+  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span></strong><![endif]><strong><i>WHAT IS AUG?: </i></strong><strong><i><span
+  style='font-size:10.0pt;line-height:150%'>Updated from <span class=SpellE>AUGFest</span>
+  II, the </span><a href="AUG%20Definitions.htm"><span style='font-weight:normal'>Definitions
+  of AUG</span></a></i></strong><strong><i><span style='font-size:10.0pt;
+  line-height:150%'> ring true evermore!<o:p></span></i></strong></p>
+  <p style='margin-top:0in;margin-right:28.75pt;margin-bottom:0in;margin-left:
+  .5in;margin-bottom:.0001pt;text-indent:-.25in;line-height:150%;mso-list:l0 level1 lfo2;
+  tab-stops:list .5in'><![if !supportLists]><strong><span style='font-family:
+  Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;font-weight:
+  normal'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span></strong><![endif]><strong><i>TOME OF TIP: </i></strong><span
+  class=SpellE><strong><i><span style='font-size:10.0pt;line-height:150%'>Rewd</span></i></strong></span><strong><i><span
+  style='font-size:10.0pt;line-height:150%'> composes the singular, definitive
+  guide to<span style='mso-spacerun:yes'>  </span></span><a href="TIP.htm"><span
+  style='font-weight:normal'>Playing TIP</span></a></i></strong><strong><span
+  style='font-weight:normal'><o:p></span></strong></p>
+  <p style='margin-top:0in;margin-right:28.75pt;margin-bottom:0in;margin-left:
+  .5in;margin-bottom:.0001pt;text-indent:-.25in;line-height:150%;mso-list:l0 level1 lfo2;
+  tab-stops:list .5in'><![if !supportLists]><strong><span style='font-family:
+  Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;font-weight:
+  normal'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span></strong><![endif]><strong><i>CINCO de AUG-o:</i></strong>
+  <strong><i><span style='font-size:10.0pt;line-height:150%'>Deliberations
+  continue on scheduling the 5<sup>th</sup> <span class=SpellE>AUGfest</span>
+  &#8211; tentatively </span></i></strong><st1:date Month="5" Day="16"
+  Year="2002"><strong><i><span style='font-size:10.0pt;line-height:150%'>5/16/02</span></i></strong></st1:date><strong><span
+  style='font-weight:normal'><o:p></span></strong></p>
+  <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;
+  margin-bottom:.0001pt;text-indent:-.25in;line-height:150%;mso-list:l0 level1 lfo2;
+  tab-stops:list .5in'><![if !supportLists]><strong><span style='font-size:
+  10.0pt;line-height:150%;font-family:Symbol;mso-fareast-font-family:Symbol;
+  mso-bidi-font-family:Symbol;font-weight:normal;mso-bidi-font-weight:bold;
+  mso-bidi-font-style:italic'><span style='mso-list:Ignore'>·<span
+  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span></strong><![endif]><strong><i>SUBMISSION: </i></strong><strong><i><span
+  style='font-size:10.0pt;line-height:150%'>Rodman commits to authoring the
+  &#8220;<span class=GramE>An{</span>n}<span class=SpellE>als</span> of <span
+  class=SpellE>AUGht</span> 1&#8221; &#8211; yeah unto him be us!<o:p></span></i></strong></p>
+  <p style='margin:0in;margin-bottom:.0001pt;line-height:150%'><o:p>&nbsp;</o:p></p>
+  <p style='margin:0in;margin-bottom:.0001pt;line-height:150%'><b><i><span
+  style='font-size:10.0pt;line-height:150%'><o:p>&nbsp;</o:p></span></i></b></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal><span style='display:none;mso-hide:all'><o:p>&nbsp;</o:p></span></p>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="99%"
+ style='width:99.68%;mso-cellspacing:0in;mso-padding-alt:0in 0in 0in 0in'>
+ <tr style='mso-yfti-irow:0;mso-yfti-lastrow:yes;height:129.15pt'>
+  <td width="9%" valign=top style='width:9.48%;padding:0in 0in 0in 0in;
+  height:129.15pt'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width="28%" valign=top style='width:28.42%;padding:0in 0in 0in 0in;
+  height:129.15pt'>
+  <p class=MsoNormal><img border=0 width=197 height=198 id="_x0000_i1529"
+  src="U_drink.jpg"></p>
+  </td>
+  <td width="30%" valign=top style='width:30.0%;padding:0in 0in 0in 0in;
+  height:129.15pt'>
+  <p><img border=0 width=100 height=100 id="_x0000_i1520" src=earth.gif></p>
+  <p class=MsoNormal><a href="AUGHistory.html"><span style='font-size:18.0pt'>A
+  brief history of AUG</span></a></p>
+  </td>
+  <td width="32%" valign=top style='width:32.1%;border:solid windowtext 3.0pt;
+  padding:0in 0in 0in 0in;height:129.15pt'>
+  <p class=MsoNormal><span class=SpellE><strong>Candiru</strong></span><strong>....
+  we love you!</strong></p>
+  <p align=center style='text-align:center'><a
+  href="http://pages.prodigy.net/brox4/aug/Candiru.htm"><span style='text-decoration:
+  none;text-underline:none'><img border=0 width=41 height=113 id="_x0000_i1437"
+  src=Candiru.jpg alt="Candiru.... we hardly knew ye"></span></a><span
+  style='mso-spacerun:yes'> </span><span style='font-size:9.0pt'>(actual size)</span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='mso-cellspacing:0in;mso-table-layout-alt:fixed;mso-padding-alt:0in 0in 0in 0in'>
+ <tr style='mso-yfti-irow:0;mso-yfti-lastrow:yes;height:159.9pt'>
+  <td width="9%" valign=top style='width:9.52%;padding:0in 0in 0in 0in;
+  height:159.9pt'>
+  <p class=MsoNormal><o:p>&nbsp;</o:p></p>
+  </td>
+  <td width="28%" valign=top style='width:28.58%;border:solid windowtext 3.0pt;
+  padding:0in 0in 0in 0in;height:159.9pt'>
+  <p class=MsoNormal><span style='font-size:18.0pt;color:#2200A1'>AUG Photo
+  Gallery<o:p></span></p>
+  <p style='margin:0in;margin-bottom:.0001pt'><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  <p style='margin:0in;margin-bottom:.0001pt'><span style='font-size:14.0pt'><a
+  href="Tribute911.htm">Tribute: 9/11</a><o:p></span></p>
+  <p class=MsoNormal><span style='font-size:14.0pt'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal><span style='font-size:14.0pt'><a href="myrania.jpg"><a
+  href="AUGPix01.htm"><span class=SpellE>AUGht</span> 1 Pix</a><a
+  href="Photo%20Gallery.htm"> </a><o:p></span></p>
+  <p style='margin:0in;margin-bottom:.0001pt'><span style='font-size:14.0pt'><o:p>&nbsp;</o:p></span></p>
+  <p style='margin:0in;margin-bottom:.0001pt'><span style='font-size:14.0pt'><a
+  href="myrania.jpg"><a href="AUGPix2K.htm">Pix of the new Millennium</a><a
+  href="Photo%20Gallery.htm"> </a><o:p></span></p>
+  <p style='margin:0in;margin-bottom:.0001pt'><span style='font-size:14.0pt'><o:p>&nbsp;</o:p></span></p>
+  <p style='margin:0in;margin-bottom:.0001pt'><span style='font-size:14.0pt'><a
+  href="AUGPix2K.htm#Contrib"><span class=SpellE>AUGer</span> Contributions</a><o:p></span></p>
+  <p style='margin:0in;margin-bottom:.0001pt'><span style='font-size:14.0pt'><o:p>&nbsp;</o:p></span></p>
+  <p style='margin:0in;margin-bottom:.0001pt'><span style='font-size:14.0pt'><a
+  href="myrania.jpg"><a href="AUGPix.htm">20th Century Pix</a></span><a
+  href="Photo%20Gallery.htm"> </a></p>
+  <p style='margin:0in;margin-bottom:.0001pt'><o:p>&nbsp;</o:p></p>
+  <p class=MsoNormal><o:p>&nbsp;</o:p></p>
+  </td>
+  <td width="19%" valign=top style='width:19.04%;border:solid windowtext 3.0pt;
+  padding:0in 0in 0in 0in;height:159.9pt'>
+  <p style='margin:0in;margin-bottom:.0001pt'><o:p>&nbsp;</o:p></p>
+  <p style='margin:0in;margin-bottom:.0001pt'><o:p>&nbsp;</o:p></p>
+  <p align=center style='margin:0in;margin-bottom:.0001pt;text-align:center'><img
+  border=0 width=164 height=140 id="_x0000_i1539" src=AUGstick.jpg></p>
+  <p style='margin:0in;margin-bottom:.0001pt'><o:p>&nbsp;</o:p></p>
+  <p style='margin:0in;margin-bottom:.0001pt'><o:p>&nbsp;</o:p></p>
+  <p style='margin:0in;margin-bottom:.0001pt'><o:p>&nbsp;</o:p></p>
+  <p align=center style='margin:0in;margin-bottom:.0001pt;text-align:center'><!--[if gte vml 1]><v:shapetype
+   id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
+   path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+   <v:stroke joinstyle="miter"/>
+   <v:formulas>
+    <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+    <v:f eqn="sum @0 1 0"/>
+    <v:f eqn="sum 0 0 @1"/>
+    <v:f eqn="prod @2 1 2"/>
+    <v:f eqn="prod @3 21600 pixelWidth"/>
+    <v:f eqn="prod @3 21600 pixelHeight"/>
+    <v:f eqn="sum @0 0 1"/>
+    <v:f eqn="prod @6 1 2"/>
+    <v:f eqn="prod @7 21600 pixelWidth"/>
+    <v:f eqn="sum @8 21600 0"/>
+    <v:f eqn="prod @7 21600 pixelHeight"/>
+    <v:f eqn="sum @10 21600 0"/>
+   </v:formulas>
+   <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+   <o:lock v:ext="edit" aspectratio="t"/>
+  </v:shapetype><v:shape id="_x0000_i1540" type="#_x0000_t75" alt="" style='width:108pt;
+   height:95.25pt' o:bordertopcolor="this" o:borderleftcolor="this"
+   o:borderbottomcolor="this" o:borderrightcolor="this">
+   <v:imagedata src="hac_rodman.jpg"/>
+   <w:bordertop type="single" width="24"/>
+   <w:borderleft type="single" width="24"/>
+   <w:borderbottom type="single" width="24"/>
+   <w:borderright type="single" width="24"/>
+  </v:shape><![endif]--><![if !vml]><img border=0 width=152 height=135
+  src="index_files/image001.jpg" v:shapes="_x0000_i1540"><![endif]></p>
+  </td>
+  <td width="42%" valign=top style='width:42.86%;border:solid windowtext 3.0pt;
+  padding:0in 0in 0in 0in;height:159.9pt'>
+  <p class=MsoNormal><span style='font-size:18.0pt;color:#2200A1'>AUG <span
+  class=SpellE>Proze</span><o:p></span></p>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal><a href="Doggeral.htm">Let &#8216;<span class=SpellE>em</span>
+  Eat Doggerel</a>: Champ&#8217;s Song</p>
+  <p class=MsoNormal><o:p>&nbsp;</o:p></p>
+  <p class=MsoNormal><a href="Augdreams.html"><span class=SpellE>Augdreams</span></a>:
+  Zippo&#8217;s Final Opus</p>
+  <p class=MsoNormal><o:p>&nbsp;</o:p></p>
+  <p class=MsoNormal><a href="Haiku.htm">Haiku</a>: The official AUG Form</p>
+  <p class=MsoNormal><o:p>&nbsp;</o:p></p>
+  <p class=MsoNormal><a href="Birthright.txt">Birthright:</a> Not for the weak
+  of heart</p>
+  <p class=MsoNormal><o:p>&nbsp;</o:p></p>
+  <p class=MsoNormal><a href="Limerick.htm">Limerick</a>: The
+  &#8220;weakness&#8221; of AUG</p>
+  <p class=MsoNormal><o:p>&nbsp;</o:p></p>
+  <p class=MsoNormal><a href="AUG_Lament.htm"><span class=SpellE>AUGmentation</span>
+  Lamentation</a>: spare the Rod</p>
+  <p class=MsoNormal><o:p>&nbsp;</o:p></p>
+  <p class=MsoNormal><a href="Blasphemes.htm">The <span class=SpellE>Blasphemeatitudes</span>
+  of <span class=SpellE>Wango</span></a>: <span class=SpellE>rewD</span> &amp;
+  Rod</p>
+  <p class=MsoNormal><o:p>&nbsp;</o:p></p>
+  <p class=MsoNormal><a href="AUG%20Wraiths.htm">AUG Wraiths</a>: A Derivative</p>
+  <p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal><span style='display:none;mso-hide:all'><o:p>&nbsp;</o:p></span></p>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="99%"
+ style='width:99.48%;mso-cellspacing:0in;mso-padding-alt:0in 0in 0in 0in'>
+ <tr style='mso-yfti-irow:0;mso-yfti-lastrow:yes'>
+  <td width="2%" valign=top style='width:2.3%;padding:0in 0in 0in 0in'>
+  <p class=MsoNormal><o:p>&nbsp;</o:p></p>
+  <p class=MsoNormal><o:p>&nbsp;</o:p></p>
+  <p class=MsoNormal><o:p>&nbsp;</o:p></p>
+  <p class=MsoNormal><o:p>&nbsp;</o:p></p>
+  <p class=MsoNormal><o:p>&nbsp;</o:p></p>
+  </td>
+  <td width="4%" valign=top style='width:4.06%;padding:0in 0in 0in 0in'>
+  <p><span style='font-size:7.5pt'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width="53%" valign=top style='width:53.64%;border:solid windowtext 3.0pt;
+  border-right:none;padding:0in 0in 0in 0in'>
+  <p class=MsoNormal><span style='font-size:18.0pt;color:#2200A1'>AUG Archives:
+  Tomes of the Wicked<o:p></span></p>
+  <p><a href="Zoso's1st.htm"><span class=SpellE><span style='font-size:10.0pt'>Zoso&#8217;s</span></span><span
+  style='font-size:10.0pt'> Emergence:</span></a><span style='font-size:10.0pt'>
+  A Call for the 2<sup>nd</sup> <span class=SpellE>AUGFest</span></span></p>
+  <p><a href="Zoso'sCall.htm"><span class=SpellE><span style='font-size:10.0pt'>Zoso&#8217;s</span></span><span
+  style='font-size:10.0pt'> Bid:</span></a><span style='font-size:10.0pt'> The
+  Plan Laid True for <span class=SpellE>AUGFest</span> II</span></p>
+  <p><a href="DisheartenedZoso.htm"><span style='font-size:10.0pt'>Lamentations
+  of <span class=SpellE>Zoso</span>:</span></a><span style='font-size:10.0pt'>
+  The Disheartening of <span class=SpellE>Zoso</span><o:p></span></p>
+  <p><a href="NeonRodman's1st.htm"><span style='font-size:10.0pt'>Neon Rodman:</span></a><span
+  style='font-size:10.0pt'> The Birth of a Tradition<o:p></span></p>
+  </td>
+  <td width="40%" valign=top style='width:40.0%;border:solid windowtext 3.0pt;
+  border-left:none;padding:0in 0in 0in 0in'>
+  <p><span style='font-size:18.0pt'><o:p>&nbsp;</o:p></span></p>
+  <p><a href="DeleteriousSpeaks.htm"><span style='font-size:10.0pt'>The
+  Beatitude of Deleterious Jones:</span></a><span style='font-size:10.0pt'> On <span
+  class=SpellE>AUGFest</span> II </span></p>
+  <p><a href="Zoso'sRules.htm"><span style='font-size:10.0pt'>Neon&#8217;s
+  Rules:</span></a><span style='font-size:10.0pt'> Of Tip, of Indy, of AUG </span></p>
+  <p><a href="Wango'sPlea.htm"><span class=SpellE><span style='font-size:10.0pt'>Wango</span></span><span
+  style='font-size:10.0pt'> Fights Back:</span></a><span style='font-size:10.0pt'>
+  The Call to Arms<o:p></span></p>
+  <p><span style='font-size:10.0pt'><a href="AUG2kE.htm">The AUG 2K Journey</a>:
+  An e-mail retrospective</span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal><span style='display:none;mso-hide:all'><o:p>&nbsp;</o:p></span></p>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0in;mso-padding-alt:0in 0in 0in 0in'>
+ <tr style='mso-yfti-irow:0'>
+  <td width="2%" valign=top style='width:2.0%;padding:0in 0in 0in 0in'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width="97%" valign=top style='width:97.0%;padding:0in 0in 0in 0in'>
+  <p class=MsoNormal align=center style='text-align:center'><o:p>&nbsp;</o:p></p>
+  <p class=MsoNormal align=center style='text-align:center'><o:p>&nbsp;</o:p></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td style='padding:0in 0in 0in 0in'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:0in 0in 0in 0in'>
+  <blockquote style='margin-top:5.0pt;margin-bottom:5.0pt'>
+  <p align=center style='text-align:center'><a
+  href="http://sports.espn.go.com/nfl/clubhouse?team=dal"><span
+  style='text-decoration:none;text-underline:none'><img border=0 width=126
+  height=126 id="_x0000_i1032" src=boyz.gif></span></a><a
+  href="http://sports.espn.go.com/mlb/clubhouse?team=tex"><span
+  style='text-decoration:none;text-underline:none'><img border=0 width=126
+  height=126 id="_x0000_i1033" src=rangers.gif></span></a><a
+  href="http://sports.espn.go.com/nba/clubhouse?team=dal"><span
+  style='color:windowtext;text-decoration:none;text-underline:none'><img
+  border=0 width=126 height=126 id="_x0000_i1464" src="dal_logo.gif"></span></a><a
+  href="http://sports.espn.go.com/nhl/clubhouse?team=dal"><span
+  style='text-decoration:none;text-underline:none'><img border=0 width=126
+  height=126 id="_x0000_i1035" src=stars.gif></span></a></p>
+  <blockquote style='margin-top:5.0pt;margin-bottom:5.0pt'>
+  <p align=center style='text-align:center'>* * * <a
+  href="http://sports.espn.go.com/nfl/clubhouse?team=dal"><span class=SpellE>Cheez</span>
+  <span class=SpellE>Boyz</span></a> * * * <a
+  href="http://sports.espn.go.com/mlb/clubhouse?team=tex">Rump Rangers</a> * *
+  * <a href="http://sports.espn.go.com/nba/clubhouse?team=dal"><span
+  class=SpellE>Mavs</span> Dominate</a> * * <a
+  href="http://sports.espn.go.com/nhl/clubhouse?team=dal">Stars Hockey?</a> * *
+  </p>
+  </blockquote>
+  </blockquote>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2;mso-yfti-lastrow:yes'>
+  <td style='padding:0in 0in 0in 0in'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td style='padding:0in 0in 0in 0in'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal><span style='display:none;mso-hide:all'><o:p>&nbsp;</o:p></span></p>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0in;mso-padding-alt:0in 0in 0in 0in'>
+ <tr style='mso-yfti-irow:0;mso-yfti-lastrow:yes'>
+  <td width="0%" valign=top style='width:0%;padding:0in 0in 0in 0in'>
+  <p class=MsoNormal>&nbsp;</p>
+  </td>
+  <td width="8%" valign=top style='width:8.0%;padding:0in 0in 0in 0in'>
+  <p class=MsoNormal align=center style='text-align:center'><br clear=left
+  style='mso-special-character:line-break'>
+  </p>
+  </td>
+  <td width="13%" valign=top style='width:13.0%;background:#FF8000;padding:
+  0in 0in 0in 0in'>
+  <p class=MsoNormal><a href="http://www.hootersofamerica.com"><span
+  style='font-size:10.0pt;text-decoration:none;text-underline:none'><img
+  border=0 width=83 height=99 id="_x0000_i1131" src=hooterowl.gif></span></a></p>
+  <p class=MsoNormal><span style='font-size:10.0pt'><span
+  style='mso-spacerun:yes'> </span>Soon to be much <o:p></span></p>
+  <p class=MsoNormal><span style='font-size:10.0pt'><span
+  style='mso-spacerun:yes'> </span>maligned unless <o:p></span></p>
+  <p class=MsoNormal><span style='font-size:10.0pt'><span
+  style='mso-spacerun:yes'> </span>the waitresses <o:p></span></p>
+  <p class=MsoNormal><span style='font-size:10.0pt'><span
+  style='mso-spacerun:yes'> </span>start putting out&#8230;<o:p></span></p>
+  </td>
+  <td width="12%" valign=top style='width:12.0%;padding:0in 0in 0in 0in'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.0pt'><img border=0 width=41 height=124 id="_x0000_i1159"
+  src=Seag7.gif><o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.0pt'>Booze Most Consumed</span></p>
+  </td>
+  <td width="15%" valign=top style='width:15.0%;padding:0in 0in 0in 0in'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:10.0pt'><br clear=left>
+  </span><a href="http://www.awcwire.com/wire/ul1015.html"><span
+  style='color:windowtext;text-decoration:none;text-underline:none'><img
+  border=0 width=101 height=112 id="_x0000_i1178" src=whiteWire.gif></span></a></p>
+  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE>Ya</span>
+  never know&#8230;</p>
+  </td>
+  <td width="15%" valign=top style='width:15.0%;padding:0in 0in 0in 0in'>
+  <p class=MsoNormal align=center style='text-align:center'><img border=0
+  width=60 height=100 id="_x0000_i1183" src=boxbendwht.gif><br clear=left>
+  <span style='font-size:10.0pt'>Email Webmaster Deleterious Jones </span><a
+  href="mailto:deleterious.jones@prodigy.net"><span style='font-size:10.0pt'>Click
+  Here</span></a> </p>
+  </td>
+  <td width="33%" valign=top style='width:33.0%;padding:0in 0in 0in 0in'>
+  <p class=MsoNormal align=center style='text-align:center'><a
+  href="http://sportsillustrated.cnn.com/scoreboards/"><span style='font-size:
+  18.0pt;text-decoration:none;text-underline:none'><img border=0 width=222
+  height=62 id="_x0000_i1154" src=cnnsi.gif></span></a></p>
+  <p class=MsoNormal align=center style='text-align:center'><o:p>&nbsp;</o:p></p>
+  <p class=MsoNormal align=center style='text-align:center'><o:p>&nbsp;</o:p></p>
+  <p class=MsoNormal align=center style='text-align:center'><o:p>&nbsp;</o:p></p>
+  <p class=MsoNormal><span style='mso-spacerun:yes'>   </span><img border=0
+  width=85 height=100 id="_x0000_i1293" src=beermug.gif><span
+  style='mso-spacerun:yes'>              </span><a
+  href="http://www.whataburger.com"><span style='text-decoration:none;
+  text-underline:none'><img border=0 width=101 height=75 id="_x0000_i1452"
+  src=whataburger.gif></span></a></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal><span style='display:none;mso-hide:all'><o:p>&nbsp;</o:p></span></p>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0in;mso-padding-alt:0in 0in 0in 0in'>
+ <tr style='mso-yfti-irow:0;mso-yfti-lastrow:yes'>
+  <td width="100%" valign=top style='width:100.0%;padding:0in 0in 0in 0in'>
+  <blockquote style='margin-top:5.0pt;margin-bottom:5.0pt'>
+  <p>Chat with other <span class=SpellE>AUGers</span>: <a
+  href="http://chat.yahoo.com/"><span style='text-decoration:none;text-underline:
+  none'><img border=0 width=88 height=31 id="_x0000_i1041" src=yahoochat.gif
+  alt="[Yahoo! Chat]"></span></a></p>
+  </blockquote>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal><span style='display:none;mso-hide:all'><o:p>&nbsp;</o:p></span></p>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0in;mso-padding-alt:0in 0in 0in 0in'>
+ <tr style='mso-yfti-irow:0;mso-yfti-lastrow:yes'>
+  <td width="100%" valign=top style='width:100.0%;padding:0in 0in 0in 0in'>
+  <p class=MsoNormal align=right style='text-align:right'><img border=0
+  width=216 height=23 id="_x0000_i1042" src=wc-03.gif><br clear=right>
+  <img border=0 width=60 height=20 id="_x0000_i1043"
+  src="http://counter.digits.com/wc/-d/4/deleterious" hspace=4 vspace=2
+  align=middle></p>
+  </td>
+ </tr>
+</table>
+
+<p align=center style='text-align:center'>&nbsp;</p>
+
+</div>
+
+</body>
+
+</html>
